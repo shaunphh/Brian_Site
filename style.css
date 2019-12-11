@@ -205,6 +205,9 @@ Media Queries
 }
 
 
+
+
+
 @media screen and (max-width: 40em) {
 	a.grid-item.small.aos-init.aos-animate {
 	width: 100%;
@@ -236,7 +239,10 @@ Media Queries
 	}
 }
 
-@media screen and (man-width: 60em) {
+
+
+
+@media screen and (max-width: 60em) {
 	a.grid-item.small.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
@@ -267,6 +273,7 @@ Media Queries
 	}
 }
 
+/* 
 @media screen and (max-width: 80em) {
 	a.grid-item.small.aos-init.aos-animate {
 	width: 100%;
@@ -297,7 +304,7 @@ Media Queries
 
 	}
 }
-
+ */
 
 
 
