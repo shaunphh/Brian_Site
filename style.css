@@ -210,28 +210,28 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 
 	}
 }
@@ -241,28 +241,28 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 
 	}
 }
@@ -272,28 +272,28 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow: hidden
+	overflow-x: hidden
 
 	}
 }
