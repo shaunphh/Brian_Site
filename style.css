@@ -205,6 +205,71 @@ Media Queries
 }
 
 
+@media screen and (max-width: 40em) {
+	a.grid-item.small.aos-init.aos-animate {
+		width: 60%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+
+	a.grid-item.medium.aos-init.aos-animate {
+	width: 80%;
+	padding-top: unset;
+	padding-bottom: unset;
+	}
+
+	a.grid-item.large.aos-init.aos-animate {
+	width: 90%;
+	padding-top: unset;
+	padding-bottom: unset;
+	}
+
+	a.grid-item.xlarge.aos-init.aos-animate {
+	width: 100%;
+	padding-top: unset;
+	padding-bottom: unset;
+	}
+}
+
+@media screen and (man-width: 60em) {
+	a.grid-item.small.aos-init.aos-animate {
+		width: 60%;
+	}
+
+	a.grid-item.medium.aos-init.aos-animate {
+	width: 80%;
+	}
+
+	a.grid-item.large.aos-init.aos-animate {
+	width: 90%;
+	}
+
+	a.grid-item.xlarge.aos-init.aos-animate {
+	width: 100%;
+	}
+}
+
+@media screen and (max-width: 80em) {
+	a.grid-item.small.aos-init.aos-animate {
+    width: 60%;
+}
+
+a.grid-item.medium.aos-init.aos-animate {
+	width: 80%;
+}
+
+a.grid-item.large.aos-init.aos-animate {
+	width: 90%;
+}
+
+a.grid-item.xlarge.aos-init.aos-animate {
+	width: 100%;
+}
+}
+
+
+
+
 
 /*
 @media screen and (min-width: 40em) {
@@ -237,7 +302,7 @@ Media Queries
 
 
 
-
+/*
 
 
 @media screen and (max-width: 40em) {
@@ -299,4 +364,4 @@ Media Queries
 		padding-top: unset;
 		padding-bottom: unset;
 	}
-}
+} */
