@@ -189,7 +189,7 @@ Media Queries
 
 @media screen and (max-width: 40em) {
 	.site-description {
-		width: 60%;
+		width: 80%;
 		/* padding-top: 150px; */
 	}
 	.site-title {
@@ -211,28 +211,28 @@ Media Queries
 
 @media screen and (max-width: 60em) {
 	a.grid-item.small.aos-init.aos-animate {
-	width: 55%;
+	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
 	overflow-x: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
-	width: 60%;
+	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
 	overflow-x: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
-	width: 65%;
+	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
 	overflow-x: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
-	width: 70%;
+	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
 	overflow-x: hidden
@@ -243,7 +243,7 @@ Media Queries
 
 
 
-/* 
+/*
 @media screen and (max-width: 60em) {
 	a.grid-item.small.aos-init.aos-animate {
 	width: 100%;
