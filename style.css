@@ -207,53 +207,63 @@ Media Queries
 
 @media screen and (max-width: 40em) {
 	a.grid-item.small.aos-init.aos-animate {
-		width: 100%;
-		padding-top: unset;
-		padding-bottom: unset;
+	width: 100%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
-	padding-top: unset;
-	padding-bottom: unset;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
-	padding-top: unset;
-	padding-bottom: unset;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
-	padding-top: unset;
-	padding-bottom: unset;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
+
 	}
 }
 
 @media screen and (man-width: 60em) {
 	a.grid-item.small.aos-init.aos-animate {
-		width: 100%;
-		padding-top: unset;
-		padding-bottom: unset;
+	width: 100%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
-	padding-top: unset;
-	padding-bottom: unset;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
-	padding-top: unset;
-	padding-bottom: unset;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
-	padding-top: unset;
-	padding-bottom: unset;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow: hidden
+
 	}
 }
 
@@ -262,24 +272,29 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
+	overflow: hidden
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
+	overflow: hidden
+
 	}
 }
 
