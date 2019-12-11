@@ -149,17 +149,16 @@ grid items
 }
 
 
-.hidden-text {
-	display: none;
-}
 
 
-	.stamp {
+
+.stamp {
   position: absolute;
   background: orange;
   border: 4px dotted black;
 	opacity: 0;
 }
+
 .stamp1 {
   left: 5%;
   top: 10px;
@@ -168,7 +167,9 @@ grid items
 }
 
 
-
+.hidden-text {
+	display: none;
+}
 
 /*--------------------------------------------------------------
 Media Queries
@@ -182,7 +183,6 @@ Media Queries
 
 	.site-title {
 		padding-right: 20px;
-
 		width: 40%;
 	}
 
@@ -190,7 +190,7 @@ Media Queries
 
 
 @media screen and (max-width: 40em) {
-	
+
 	.site-title {
 		padding-right: 10px;
 		font-size: 48px;
@@ -210,6 +210,16 @@ Media Queries
 	 display: none!important;
  } */
 
+ .fancybox-container p {
+     width: 90%!important;
+     margin-left: unset!important;
+     margin-top: unset!important;
+     margin-bottom: unset!important;
+     color: white!important;
+     font-size: 24px!important;
+     line-height: 30px!important;
+ }
+
 }
 
 
@@ -247,41 +257,6 @@ Media Queries
 
 	}
 }
-
-
-
-
-/*
-@media screen and (max-width: 60em) {
-	a.grid-item.small.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-
-	}
-
-	a.grid-item.medium.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-
-	}
-
-	a.grid-item.large.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-
-	}
-
-	a.grid-item.xlarge.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-
-
-	}
-} */
 
 
 
