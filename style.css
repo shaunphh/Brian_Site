@@ -2,6 +2,8 @@
 /*--------------------------------------------------------------
 Typography
 --------------------------------------------------------------*/
+html, body { max-width: 100% !important; overflow-x: hidden !important; }
+
 body {
 	color: #404040;
 	font-family: 'Work Sans', sans-serif;
@@ -214,28 +216,28 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 
 	}
 }
@@ -249,28 +251,28 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 
 	}
 } */
@@ -283,28 +285,28 @@ Media Queries
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.medium.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.large.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 	}
 
 	a.grid-item.xlarge.aos-init.aos-animate {
 	width: 100%;
 	margin-top: unset;
 	margin-bottom: unset;
-	overflow-x: hidden
+
 
 	}
 }
