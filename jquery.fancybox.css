@@ -443,7 +443,7 @@ body.compensate-for-scrollbar {
 }
 
 .fancybox-navigation .fancybox-button div {
-    padding: 7px;
+    /* padding: 7px; */
 }
 
 .fancybox-navigation .fancybox-button--arrow_left {

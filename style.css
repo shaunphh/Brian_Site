@@ -182,7 +182,7 @@ Media Queries
 
 	.site-title {
 		padding-right: 20px;
-		font-size: 48px;
+
 		width: 40%;
 	}
 
@@ -203,6 +203,15 @@ Media Queries
 	.masthead {
 			padding: 0 1.5rem 0;
 	}
+
+
+	.fancybox-button svg {
+	    display: none!important;
+	}
+
+ /* .fancybox-button--arrow_left .fancybox-button--arrow_right{
+	 display: none!important;
+ } */
 
 }
 
