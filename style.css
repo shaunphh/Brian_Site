@@ -173,6 +173,19 @@ Media Queries
 --------------------------------------------------------------*/
 
 
+@media screen and (max-width: 60em) {
+	.site-description {
+		width: 90%;
+	}
+
+	.site-title {
+		padding-right: 20px;
+		font-size: 48px;
+		width: 40%;
+	}
+
+}
+
 
 @media screen and (max-width: 40em) {
 	.site-description {
@@ -191,19 +204,76 @@ Media Queries
 
 }
 
+
+
+
+
+
 @media screen and (max-width: 60em) {
-	.site-description {
-		width: 90%;
+	a.grid-item.small.aos-init.aos-animate {
+	width: 55%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
 	}
 
-	.site-title {
-		padding-right: 20px;
-		font-size: 48px;
-		width: 40%;
+	a.grid-item.medium.aos-init.aos-animate {
+	width: 60%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
 	}
 
+	a.grid-item.large.aos-init.aos-animate {
+	width: 65%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
+	}
+
+	a.grid-item.xlarge.aos-init.aos-animate {
+	width: 70%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
+
+	}
 }
 
+
+
+
+/* 
+@media screen and (max-width: 60em) {
+	a.grid-item.small.aos-init.aos-animate {
+	width: 100%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
+	}
+
+	a.grid-item.medium.aos-init.aos-animate {
+	width: 100%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
+	}
+
+	a.grid-item.large.aos-init.aos-animate {
+	width: 100%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
+	}
+
+	a.grid-item.xlarge.aos-init.aos-animate {
+	width: 100%;
+	margin-top: unset;
+	margin-bottom: unset;
+	overflow-x: hidden
+
+	}
+} */
 
 
 
@@ -241,70 +311,6 @@ Media Queries
 
 
 
-
-@media screen and (max-width: 60em) {
-	a.grid-item.small.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-	}
-
-	a.grid-item.medium.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-	}
-
-	a.grid-item.large.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-	}
-
-	a.grid-item.xlarge.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-
-	}
-}
-
-/* 
-@media screen and (max-width: 80em) {
-	a.grid-item.small.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-	}
-
-	a.grid-item.medium.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-	}
-
-	a.grid-item.large.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-	}
-
-	a.grid-item.xlarge.aos-init.aos-animate {
-	width: 100%;
-	margin-top: unset;
-	margin-bottom: unset;
-	overflow-x: hidden
-
-	}
-}
- */
 
 
 
