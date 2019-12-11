@@ -1,0 +1,111 @@
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_01.png"><img src="images/500X500_01.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_02.png"><img src="images/500X500_02.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_03.png"><img src="images/500X500_03.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_04.png"><img src="images/500X500_04.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_05.png"><img src="images/500X500_05.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_06.png"><img src="images/500X500_06.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item small" href="images/500X500_07.png"><img src="images/500X500_07.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_1.png"><img src="images/750X750_1.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_2.png"><img src="images/750X750_2.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_3.png"><img src="images/750X750_3.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_4.png"><img src="images/750X750_4.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_5.png"><img src="images/750X750_5.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_6.png"><img src="images/750X750_6.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_7.png"><img src="images/750X750_7.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item medium" href="images/750X750_8.png"><img src="images/750X750_8.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item large" href="images/1000X1000_01.png"><img src="images/1000X1000_01.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item large" href="images/1000X1000_02.png"><img src="images/1000X1000_02.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item large" href="images/1000X1000_03.png"><img src="images/1000X1000_03.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item large" href="images/1000X1000_04.png"><img src="images/1000X1000_04.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item large" href="images/1000X1000_05.png"><img src="images/1000X1000_05.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item large" href="images/1000X1000_06.png"><img src="images/1000X1000_06.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item xlarge" href="images/1250X1250_1.png"><img src="images/1250X1250_1.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item xlarge" href="images/1250X1250_2.png"><img src="images/1250X1250_2.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item xlarge" href="images/1250X1250_3.png"><img src="images/1250X1250_3.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item xlarge" href="images/1250X1250_4.png"><img src="images/1250X1250_4.png" alt=""></a>
+<a data-fancybox="grid" data-aos="fade-up" class="grid-item xlarge" href="images/1250X1250_5.png"><img src="images/1250X1250_5.png" alt=""></a>
+
+
+
+
+
+.grid-item.small:nth-child(odd) {
+	transform: translateX(30px);
+	/* padding-right: 15px; */
+}
+.grid-item.medium:nth-child(odd) {
+	transform: translateX(30px);
+	/* padding-right: 15px; */
+}
+.grid-item.large:nth-child(odd) {
+	transform: translateX(30px);
+	/* padding-right: 15px; */
+}
+.grid-item.xlarge:nth-child(odd) {
+	transform: translateX(30px);
+	/* padding-right: 15px; */
+}
+
+
+
+
+@media screen and (max-width: 40em) {
+	.small {
+		width: 40%;
+	}
+	.medium {
+		width: 60%;
+	}
+	.large {
+		width: 80%;
+	}
+	.xlarge {
+		width: 100%;
+	}
+}
+
+@media screen and (max-width: 60em) {
+	.small {
+		width: 27%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.medium {
+		width: 40%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.large {
+		width: 53%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.xlarge {
+		width: 67%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+}
+
+@media screen and (max-width: 80em) {
+	.small {
+		width: 20%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.medium {
+		width: 30%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.large {
+		width: 40%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+	.xlarge {
+		width: 50%;
+		padding-top: unset;
+		padding-bottom: unset;
+	}
+}
